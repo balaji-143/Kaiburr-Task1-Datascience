@@ -1,0 +1,27 @@
+# Compiled output
+/target/
+
+# Log files
+*.log
+hs_err_pid*
+
+# Maven specific
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.mvn/
+
+# IDE settings
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# Other
+HELP.md
